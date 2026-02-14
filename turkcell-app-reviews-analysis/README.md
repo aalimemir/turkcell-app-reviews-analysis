@@ -13,6 +13,7 @@ Bu proje, Turkcell mobil uygulamasının Google Play Store üzerindeki binlerce 
 Proje süresince veri üzerinde şu temel işlemler gerçekleştirilmiştir:
 
 
+Analiz sürecinde **Lojistik Regresyon (Logistic Regression)** algoritması kullanılmış ve modelin duygu durumlarını tahminlemede **%89 doğruluk (accuracy)** oranına ulaştığı gözlemlenmiştir.
 
 \* NLP \& Veri Temizleme: Ham yorumlar üzerindeki noktalama işaretleri, etkisiz kelimeler (stop-words) ve gereksiz karakterler temizlenerek metin madenciliğine hazır hale getirilmiştir.
 
@@ -81,5 +82,6 @@ turkcell\_yorumlar\_final.csv: Temizlenmiş ve analize hazır veri seti.
 
 
 ⭐ Bu proje, kullanıcı geri bildirimlerini veri odaklı bir yaklaşımla analiz ederek müşteri deneyimini anlamlandırmak için tasarlanmıştır.
+
 
 
