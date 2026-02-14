@@ -46,11 +46,11 @@ Proje süresince veri üzerinde şu temel işlemler gerçekleştirilmiştir:
 
 1\. Kütüphaneleri Yükleyin
 
-```bash
+Bash
 
 pip install -r requirements.txt
 
-2\. Dashboard'u Çalıştırın
+2. Dashboard'u Çalıştırın
 
 Analiz sonuçlarını ve duygu analizi tahminleme ekranını görüntülemek için:
 
@@ -81,4 +81,5 @@ turkcell\_yorumlar\_final.csv: Temizlenmiş ve analize hazır veri seti.
 
 
 ⭐ Bu proje, kullanıcı geri bildirimlerini veri odaklı bir yaklaşımla analiz ederek müşteri deneyimini anlamlandırmak için tasarlanmıştır.
+
 
