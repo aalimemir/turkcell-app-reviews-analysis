@@ -77,11 +77,12 @@ turkcell\_model.pkl \& vectorizer.pkl: Eğitilmiş makine öğrenmesi ağırlık
 
 
 
-turkcell\_yorumlar\_final.csv: Temizlenmiş ve analize hazır veri seti.
+turkcell\_yorumlar\_final.csv: Temizlenmiş ve analize hazır veri setidir.
 
 
 
 ⭐ Bu proje, kullanıcı geri bildirimlerini veri odaklı bir yaklaşımla analiz ederek müşteri deneyimini anlamlandırmak için tasarlanmıştır.
+
 
 
 
